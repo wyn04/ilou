@@ -87,9 +87,6 @@
 |  4   | isDelete   | tinyint  |  3   |   0    |    N     |  N   |         0         | 是否删除0-未删除1-已删除 |
 |  5   | updateTime | datetime |  19  |   0    |    Y     |  N   | CURRENT_TIMESTAMP |                          |
 
-### 后端接口设计
-
-[ilou-api.yinan.fun/api/doc.html](ilou-api.yinan.fun/api/doc.html)
 
 ### 通用返回对象
 
