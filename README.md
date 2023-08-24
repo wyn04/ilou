@@ -1,5 +1,19 @@
 # 爱楼-表情包网站
 
+## 页面展示
+
+- 主页
+
+![image-20230717161539797](https://jsd.cdn.zzko.cn/gh/wyn04/my-pic-bed/202308242323122.png)
+
+- 管理员页面
+
+![image-20230717161629434](https://jsd.cdn.zzko.cn/gh/wyn04/my-pic-bed/image-20230717161629434.png)
+
+- 后端文档
+
+![image-20230717161823777](https://jsd.cdn.zzko.cn/gh/wyn04/my-pic-bed/image-20230717161823777.png)
+
 ## 需求分析
 
 1. 用户根据名字和标签搜索表情包
